@@ -5,6 +5,10 @@ Created on Mon Jun 11 16:54:05 2018
 @author: Balasubramaniam
 """
 
+"""
+Updating 
+"""
+
 class Product:
     GST=0.09
     def __init__(self,id,name,dop):

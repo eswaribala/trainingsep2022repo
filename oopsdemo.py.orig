@@ -6,7 +6,11 @@ Created on Mon Jun 11 16:54:05 2018
 """
 
 """
+<<<<<<< HEAD
+Updating @ 14.25 pm
+=======
 Updating @ 14.22 pm
+>>>>>>> 246466e6a3181c4c5055f0be534c0a84d28f9d81
 """
 
 class Product:

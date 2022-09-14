@@ -1,1 +1,1 @@
-print "Testing user creation with Python and Mysql"
+print("Testing user creation with Python and Mysql")
